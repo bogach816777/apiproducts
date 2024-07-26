@@ -736,17 +736,7 @@
         "coordinates": [49.839368561264166, 24.02895806845261],
         "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@49.8388842,24.0290439,15z/data=!4m6!3m5!1s0x473add35f1dcee93:0x96274434f5dd332b!8m2!3d49.8388842!4d24.0290439!16s%2Fg%2F11vb8bwgth?hl=uk&entry=ttu"
     },
-    {
-        "city": "Львів",
-        "cod":"7459",
-        "cityCoordinates": [49.841458, 24.027959],
-        "zoomCity": 12,
-        "name": "вул. Стрийська, 108",
-        "tel": "097-047-06-24",
-        "time": "10:00-20:00",
-        "coordinates": [49.81084064110829, 24.01857353080166],
-        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@49.8117961,24.0155266,15z/data=!4m6!3m5!1s0x473ae77dc0ffe91d:0x8a96a3b1788caf8!8m2!3d49.8103673!4d24.0184896!16s%2Fg%2F11vdkkm7sd?hl=uk&entry=ttu"
-    },
+
     {
         "city": "Львів",
         "cod":"7543",

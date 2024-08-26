@@ -408,17 +408,6 @@
     },
     {
         "city": "Київ",
-        "cod":"7421",
-        "zoomCity": 10,
-        "cityCoordinates": [50.4504212701224, 30.523708236377523],
-        "name": "вул. Ярославська, 56 (навпроти 8-ої каси «Сільпо»)",
-        "tel": "093-364-74-75",
-        "time": "10:00-21:00",
-        "coordinates": [50.471397431772886, 30.517555128066384],
-        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.471387,30.517552,17z/data=!3m1!4b1!4m6!3m5!1s0x40d4cf726bb06dd3:0x99ad8ef7912e861c!8m2!3d50.471387!4d30.517552!16s%2Fg%2F11jcvtpzlz?hl=ru&entry=ttu"
-    },
-    {
-        "city": "Київ",
         "cod":"3018",
         "zoomCity": 10,
         "cityCoordinates": [50.4504212701224, 30.523708236377523],
@@ -1354,18 +1343,6 @@
     "coordinates": [50.433757196612504, 30.319694716403976],
     "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.4327424,30.3225473,15.5z/data=!4m6!3m5!1s0x40d4cbaae878a3db:0x3aa18b1798383d5c!8m2!3d50.4333359!4d30.3196715!16s%2Fg%2F11vt4s19cs?entry=ttu"
   },
-     {
-        "city": "Щасливе",
-        "cod":"7432",
-        "addto" :"Київ",
-        "zoomCity": 12,
-        "cityCoordinates": [50.37587136859584, 30.79791544031604],
-        "name": "Супермаркет «Сільпо» (Бориспільське шосе, 1,)",
-        "tel": "098-090-65-97",
-        "time": "10:00-21:00",
-        "coordinates": [50.39273868730255, 30.77742193366324],
-        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.38734,30.7610763,12.21z/data=!4m6!3m5!1s0x40d4c3baa75f00ab:0x944db439c6f28271!8m2!3d50.387809!4d30.7791769!16s%2Fg%2F11mxyj9g2l?authuser=1&entry=ttu"
-    },
      {
         "city": "Бориспіль",
         "cod":"7498",
